@@ -1,0 +1,27 @@
+th {
+    font-weight: bold;
+    font-size: 1.15em;
+    text-align: center;
+    background: rgb(180, 180, 180);
+}
+
+td {
+    font-weight: bold;
+    font-size: 1em;
+    text-align: center;
+}
+
+.detailsTable{
+    display: block;
+}
+#addRow{
+    margin-top: 30px;
+}
+.page{
+    display: flex;
+    flex-flow:column wrap;  
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+}
+
